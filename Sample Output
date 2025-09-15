@@ -1,0 +1,8 @@
+Enter the linked list elements separated by spaces (e.g., 1 4 3 2 5 2).
+Enter a non-integer character to stop (e.g., 'q'):
+1 2 4 5 6 8
+w
+Original List: 1 -> 2 -> 4 -> 5 -> 6 -> 8 -> NULL
+
+Enter the partition value (x): 5
+Partitioned List: 1 -> 2 -> 4 -> 5 -> 6 -> 8 -> NULL
